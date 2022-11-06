@@ -1,0 +1,415 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;600&display=swap');
+
+
+
+.container{
+    background-color: #0B0D39;
+}
+.foto{
+    width: 108px;
+    height: 46px;
+    gap: 91px;
+    
+}
+
+.home{
+background-color: #1A1C46;
+color: #FFFFFF;
+height: 90px;
+border-radius: 50px;
+margin-left: 228px;
+margin-top: 30px;
+gap: 70px;
+display: flex;
+align-items: center;
+justify-content: center;
+font-family: 'Quicksand', sans-serif;
+max-width: 920px;
+
+    
+    
+}
+.onlyhome{
+    color: #FFFFFF;
+}
+
+.solution{
+    color: #FFFFFF;
+    opacity: 0.6;
+}
+.Services{
+    color: #FFFFFF;
+    opacity: 0.6;
+}
+.About{
+    color: #FFFFFF;
+    opacity: 0.6;
+}
+.Feedback{
+    color: #FFFFFF;
+    opacity: 0.6;
+}
+.foto1{
+    display: flex;
+    align-items: center;
+    
+
+    
+    
+}
+
+.template{
+    color: #356DFF;
+    
+    
+}
+
+    
+    
+
+
+.the{
+    color: #FFFFFF;
+    margin-left: 230px;
+    font-size: 30px;
+    
+
+    
+
+
+}
+.startup{
+    color: #FFFFFF;
+    display: flex;
+    justify-content: left;
+    margin-left: 230px;
+    font-size: 70px;
+    padding-bottom: 100px
+}
+
+.text{
+color: #FFFFFF;
+text-align: left;
+opacity: 0.6;
+margin-left: 230px;
+font-family: 'Quicksand', sans-serif;
+
+
+
+}
+
+.discuss{
+   color: #FFFFFF;
+background-color: #356DFF;
+width: 200px;
+height: 70px;
+border-radius: 50px 50px 50px 5px;
+display: flex;
+justify-content: center;
+align-items: center;
+opacity: 1;
+
+
+}
+.discuss-container{
+    display: flex;
+    margin-left: 230px;
+}
+
+
+.box1{
+    background-color: #1A1C46;
+    height: 660px;
+    width: 900px;
+    border-radius: 40px;
+
+    
+    
+}
+
+
+
+.template1{
+    
+    color: #356DFF;
+    padding-right: 90px;
+
+
+
+}
+.box1samodzrao{
+    margin-left: 230px;
+    
+}
+
+.yourdream{
+    color: #FFFFFF;
+    font-size: 50px;
+    padding-left: 310px;
+    
+}
+
+
+
+.pirveli{
+    
+    
+    
+    width: 200px;
+    height: 200px;
+
+    
+        
+    
+
+}
+.pirveli1{
+background-color: #0B0D39;
+border-radius: 50%;
+display: flex;
+justify-content: center;
+width: 160px;
+height: 160px;
+margin-left: 40px;
+
+
+}
+
+
+
+.meore{
+    
+    width: 200px;
+    height: 200px;
+    
+    
+}
+.meore2{
+ background-color: #0B0D39;
+border-radius: 50%;
+display: flex;
+justify-content: center;
+width: 160px;
+height: 160px;
+margin-left: 30px;
+align-items: center;
+
+
+
+
+}
+.mesame{
+    
+    width: 215px;
+    height: 215px;
+    
+    
+    
+}
+.mesame3{
+    background-color: #0B0D39;
+border-radius: 50%;
+display: flex;
+justify-content: center;
+width: 160px;
+height: 160px;
+margin-left: 40px;
+}
+
+    
+    
+.fotoebissamodzravebeli{
+display: flex;
+justify-content: center;
+justify-content: space-around;
+
+
+
+
+}
+
+
+
+.productdesign{
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-around;
+font-family: 'Quicksand', sans-serif;
+
+
+}
+
+.branding{
+    color: #FFFFFF;
+    justify-content: space-around;
+font-family: 'Quicksand', sans-serif;
+
+
+}
+.coding{
+    color: #FFFFFF;
+    justify-content: space-around;
+font-family: 'Quicksand', sans-serif;
+    
+    }
+    
+
+.bolotexti{
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-around;
+    opacity: 0.6;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    font-size: 15px;
+    
+    }
+
+
+    .bolotexti1{
+        color: #FFFFFF;
+        display: flex;
+        justify-content: space-around;
+        opacity: 0.6;
+        font-family: 'Quicksand', sans-serif;
+        text-align: center;
+        font-size: 15px;
+        
+        }
+
+        .bolotexti2{
+            color: #FFFFFF;
+            display: flex;
+            justify-content: space-around;
+            opacity: 0.6;
+            font-family: 'Quicksand', sans-serif;
+            text-align: center;
+            font-size: 15px;
+            
+            }
+
+
+
+        @media only screen and (max-width: 768px){
+            .home{
+                padding-left: 3%;
+                font-size: 10px;
+                height: 55px;
+                width: 500px;
+                margin-left: 40px;
+                gap: 35px;
+            
+            }
+            .the{
+                font-size: 10px;
+                margin-left: 40px;
+            }
+            .text{
+                font-size: 20px;
+                margin-left: 40px;
+            }
+            .discuss-container{
+                font-size: 20px;
+                margin-left: 40px;
+            }
+
+         .box1samodzrao{
+            margin-left: 40px;
+            
+            
+         }
+         .productdesign{
+            font-size: 15px;
+            margin-right: 725px;
+         }
+         .bolotexti{
+            font-size: 10px;
+            margin-right: 725px;
+         }
+         .pirveli{
+            width: 90px;
+            height: 90px;
+            
+         }
+         .pirveli1{
+            width: 100px;
+            height: 100px;
+         }
+        .meore{
+            width: 90px;
+            height: 90px;
+        }
+.meore2{
+    width: 90px;
+    height: 90px;
+    display: flex;
+    flex-direction: column;
+}
+.bolotexti1{
+    font-size: 10px;
+    margin-right: 725px;
+}
+.branding{
+    font-size: 15px;
+    margin-left: 35px;
+}
+.mesame{
+    width: 90px;
+    height: 90px;
+}
+.mesame3{
+width: 90px;
+height: 90px;
+}
+.bolotexti2{
+font-size: 10px;
+margin-right: 725px;
+}
+.coding{
+font-size: 15px;
+margin-left: 10px;
+
+
+
+
+}
+.yourdream{
+    font-size: 35px;
+    margin-left: -290px;
+    
+}
+.text{
+    font-size: 15px;
+}
+.discuss{
+    font-size: 10px;
+    width: 125px;
+height: 45px;
+}
+.fotoebissamodzravebeli{
+    display: flex;
+    flex-direction: column;
+}
+.onlyhome{
+    font-size: 10px;
+}
+.solution{
+    font-size: 10px;
+}
+.Services{
+    font-size: 10px;
+}
+.solution{
+    font-size: 10px;
+}
+.About{
+    font-size: 10px;
+}
+.Feedback{font-size: 10px;}
+
+
+
+
+        }
